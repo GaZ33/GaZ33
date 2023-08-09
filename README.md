@@ -15,6 +15,7 @@ Fiz meu ensino médio integrado ao técnico em informática, foi de lá que surg
 ![CSS3](https://img.shields.io/badge/CSS3-4acabb?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Python](https://img.shields.io/badge/Python-4acabb?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-4acabb?style=for-the-badge&logo=c)
+![MySQL](https://img.shields.io/badge/mysql-4acabb.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## GitHub Stats
