@@ -1,7 +1,10 @@
 # Gabriel Alexandre Pinto
-Olá!! Me chamo Gabriel Alexandre Pinto, porém prefiro ser chamado por Gaze, um nickname que utilizo. Tenho 19 anos. Atualmente sou estudante, faço faculdade na Escola de Engenharia de Piracicaba (EEP), no curso de Ciências da Computação.
+Olá!! Me chamo Gabriel Alexandre Pinto e tenho 20 anos. Atualmente estou no 4° semestre na Escola de Engenharia de Piracicaba (EEP), no curso de Ciências da Computação.
 
-Fiz meu ensino médio integrado ao técnico em informática, foi de lá que surgiu minha paixão por programação. Desde então venho tentando aprender programação por cursos na internet.
+Fiz meu ensino médio integrado ao técnico em informática, foi de lá que surgiu minha paixão por programação. Desde então venho tentando aprender programação por cursos na internet. Alguns cursos que acho válido destacar: &nbsp;
+
+a
+
 
 ## Conecte-se comigo
 [![Twitter](https://img.shields.io/badge/Twitter-4acabb?style=for-the-badge&logo=twitter)](https://twitter.com/G4Z33) 
