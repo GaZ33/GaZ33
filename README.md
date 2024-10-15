@@ -21,6 +21,8 @@ Fiz meu ensino médio integrado ao técnico em informática, foi de lá que surg
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaZ33&theme=transparent&bg_color=770092&border_color=a058f5&show_icons=true&icon_color=91ff95&title_color=91ff95&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaz33&layout=compact)
+
 <!--
 **GaZ33/GaZ33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
